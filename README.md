@@ -1,2 +1,2 @@
-# internship_assignment
-code for first assignment
+# Internship Assignment
+Code for first assignment
